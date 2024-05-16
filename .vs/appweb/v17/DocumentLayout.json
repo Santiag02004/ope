@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\auxiliatura\\appweb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C727D6-50EB-4C50-8DBB-8BB058AD9B07}|appweb\\appweb.csproj|d:\\auxiliatura\\appweb\\appweb\\views\\operador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0C727D6-50EB-4C50-8DBB-8BB058AD9B07}|appweb\\appweb.csproj|solutionrelative:appweb\\views\\operador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C727D6-50EB-4C50-8DBB-8BB058AD9B07}|appweb\\appweb.csproj|d:\\auxiliatura\\appweb\\appweb\\controllers\\operadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C727D6-50EB-4C50-8DBB-8BB058AD9B07}|appweb\\appweb.csproj|solutionrelative:appweb\\controllers\\operadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C727D6-50EB-4C50-8DBB-8BB058AD9B07}|appweb\\appweb.csproj|d:\\auxiliatura\\appweb\\appweb\\models\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C727D6-50EB-4C50-8DBB-8BB058AD9B07}|appweb\\appweb.csproj|solutionrelative:appweb\\models\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\auxiliatura\\appweb\\appweb\\Views\\Operador\\Index.cshtml",
+              "RelativeDocumentMoniker": "appweb\\Views\\Operador\\Index.cshtml",
+              "ToolTip": "D:\\auxiliatura\\appweb\\appweb\\Views\\Operador\\Index.cshtml",
+              "RelativeToolTip": "appweb\\Views\\Operador\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T23:08:12.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperadorController.cs",
+              "DocumentMoniker": "D:\\auxiliatura\\appweb\\appweb\\Controllers\\OperadorController.cs",
+              "RelativeDocumentMoniker": "appweb\\Controllers\\OperadorController.cs",
+              "ToolTip": "D:\\auxiliatura\\appweb\\appweb\\Controllers\\OperadorController.cs",
+              "RelativeToolTip": "appweb\\Controllers\\OperadorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:04:11.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "D:\\auxiliatura\\appweb\\appweb\\Models\\Operador.cs",
+              "RelativeDocumentMoniker": "appweb\\Models\\Operador.cs",
+              "ToolTip": "D:\\auxiliatura\\appweb\\appweb\\Models\\Operador.cs",
+              "RelativeToolTip": "appweb\\Models\\Operador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:58:53.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
