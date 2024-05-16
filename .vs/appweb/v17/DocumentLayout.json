@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "appweb\\Views\\Operador\\Index.cshtml",
               "ToolTip": "D:\\auxiliatura\\appweb\\appweb\\Views\\Operador\\Index.cshtml",
               "RelativeToolTip": "appweb\\Views\\Operador\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-16T23:08:12.051Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "appweb\\Controllers\\OperadorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:04:11.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:04:11.258Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "appweb\\Models\\Operador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T22:58:53.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T22:58:53.043Z"
             }
           ]
         }
